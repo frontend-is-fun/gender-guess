@@ -1,6 +1,6 @@
 {
   "name": "chinese-gender-guess",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "guess if you are man or woman by name",
   "main": "index.js",
   "scripts": {

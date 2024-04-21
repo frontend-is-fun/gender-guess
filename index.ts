@@ -73,9 +73,5 @@ async function predictGender(name: string): Promise<GenderProbability> {
   return guess(name);
 }
 
-// 用法示例
-// predictGender("李丽")
-//   .then(result => console.log(result))
-//   .catch(err => console.error(err));
 
 export { predictGender };
